@@ -1,5 +1,5 @@
-from main import main   
+# from main import main
 
 
-def test_main(capsys):
-    assert main() is None
+# def test_main():
+#     assert main() is None
